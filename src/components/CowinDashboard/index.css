@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.co-win-app-container {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  background-color: #161625;
+  color: white;
+}
+
+.logo-container img {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
